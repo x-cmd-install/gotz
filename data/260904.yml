@@ -7,7 +7,7 @@ about:
   head: 09fcf69
   archived: false
   latestVersion: v0.1.15
-  collectedAt: 2026-09-04T20:00:00Z
+  collectedAt: 2026-09-04T20:40:10Z
 timeline:
   created: 2022-01-28
   lastCommit: 2025-10-01
@@ -80,5 +80,33 @@ total:
   openIssue: 4
   commit: 152
 ---
+path: /home/runner/.x-repo/github.com/merschformann/gotz
+collectedAt: 2026-09-04T20:40:11Z
+loc:
+  Go:
+    code: 1226
+    comments: 260
+    blanks: 107
+    files: 10
+  Json:
+    code: 405
+    comments: 0
+    blanks: 0
+    files: 8
+  Svg:
+    code: 103
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 146
+    blanks: 38
+    files: 1
+total:
+  code: 1744
+  comments: 407
+  blanks: 145
+  files: 20
 ---
 
