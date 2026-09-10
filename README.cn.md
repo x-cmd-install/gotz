@@ -4,13 +4,24 @@
 
 CLI timezone info
 
-![gotz](https://repo.x-cmd.io/gotz.svg)
+![gotz](https://repo.x-cmd.io/gotz.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install gotz
 ```
+
+## 代码规模
+
+合计: **1,734** 行代码（覆盖前 5 种语言、共 **20** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 1,226 | 260 | 107 | 10 |
+| Json | 405 | 0 | 0 | 8 |
+| Svg | 103 | 1 | 0 | 1 |
+| Markdown | 0 | 146 | 38 | 1 |
 
 ## 源代码
 
@@ -22,7 +33,6 @@ x install gotz
 - **最新版本**: `v0.1.15` (2025-05-13)
 - **最近提交**: 2025-10-01
 - **Release 含资产**: 15 个
-- **发布时间**: 2025-05-13T20:48:32Z
 
 ## 流行度
 
@@ -37,19 +47,39 @@ x install gotz
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 1 | 0 | 0 | 1 | 1 |
+| last720d | 2024-09-20 | 6 | 10 | 0 | 4 | 4 | 40 |
 
-## 代码规模
+## Release 资产
 
-合计: **1,734** 行代码（覆盖前 5 种语言、共 **20** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/merschformann/gotz/releases/download/v0.1.15/checksums.txt) | 1.3 KiB | `other` |
+| [gotz_0.1.15_darwin_amd64.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_darwin_amd64.tar.gz) | 1.3 MiB | `native/darwin/x64` |
+| [gotz_0.1.15_darwin_arm64.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_darwin_arm64.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [gotz_0.1.15_freebsd_386.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_freebsd_386.tar.gz) | 1.2 MiB | `native/unknown` |
+| [gotz_0.1.15_freebsd_amd64.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_freebsd_amd64.tar.gz) | 1.3 MiB | `native/linux/x64` |
+| [gotz_0.1.15_freebsd_arm64.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_freebsd_arm64.tar.gz) | 1.2 MiB | `native/linux/arm64` |
+| [gotz_0.1.15_freebsd_armv6.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_freebsd_armv6.tar.gz) | 1.2 MiB | `native/linux/arm` |
+| [gotz_0.1.15_linux_386.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_linux_386.tar.gz) | 1.2 MiB | `native/unknown` |
+| [gotz_0.1.15_linux_amd64.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_linux_amd64.tar.gz) | 1.3 MiB | `native/linux/x64` |
+| [gotz_0.1.15_linux_arm64.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_linux_arm64.tar.gz) | 1.2 MiB | `native/linux/arm64` |
+| [gotz_0.1.15_linux_armv6.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_linux_armv6.tar.gz) | 1.2 MiB | `native/linux/arm` |
+| [gotz_0.1.15_windows_386.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_windows_386.tar.gz) | 1.1 MiB | `native/win/x64` |
+| [gotz_0.1.15_windows_amd64.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_windows_amd64.tar.gz) | 1.2 MiB | `native/win/x64` |
+| [gotz_0.1.15_windows_arm64.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_windows_arm64.tar.gz) | 1.1 MiB | `native/win/arm64` |
+| [gotz_0.1.15_windows_armv6.tar.gz](https://github.com/merschformann/gotz/releases/download/v0.1.15/gotz_0.1.15_windows_armv6.tar.gz) | 1.1 MiB | `native/win/x64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 1,226 | 260 | 107 | 10 |
-| Json | 405 | 0 | 0 | 8 |
-| Svg | 103 | 1 | 0 | 1 |
-| Markdown | 0 | 146 | 38 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/gotz) 上共有 **4** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.1.15` | ✅ latest |
 
 ## 改进这些数据
 
@@ -60,4 +90,4 @@ gotz 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:15:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:27:57Z._
