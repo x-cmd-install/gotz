@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.15"
   latestRelease: "v0.1.15"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:27:51Z
+  collectedAt: 2026-09-10T23:17:42Z
 timeline:
   created: 2022-01-28
   lastCommit: 2025-10-01
@@ -83,7 +83,7 @@ total:
   commit: 152
 ---
 path: /home/runner/.x-repo/github.com/merschformann/gotz
-collectedAt: 2026-09-10T20:27:52Z
+collectedAt: 2026-09-10T23:17:43Z
 loc:
   Go:
     code: 1226
