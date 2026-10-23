@@ -1,0 +1,38 @@
+- repo: aur
+  srcname: gotz
+  binname: gotz
+  visiblename: gotz
+  version: 0.1.15
+  origversion: 0.1.15-1
+  status: newest
+  summary: CLI timezone info
+  maintainers:
+    - 1995parham@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: gotz-bin
+  binname: gotz-bin
+  visiblename: gotz-bin
+  version: 0.1.15
+  origversion: 0.1.15-1
+  status: newest
+  summary: A simple CLI timezone info tool
+  maintainers:
+    - vitaliikuzhdin@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: gotz
+  visiblename: gotz
+  version: 0.1.15
+  origversion: null
+  status: newest
+  summary: Displays timezones in your terminal
+- repo: homebrew
+  srcname: gotz
+  visiblename: gotz
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Displays timezones in your terminal
